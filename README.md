@@ -1,0 +1,2 @@
+# calificadoruniversidades
+Ranked University Qualificator
